@@ -1,0 +1,15 @@
+arrow
+fastapi
+fastapi-utils
+pydantic~=1.10.2
+fastapi-jwt-auth
+SQLAlchemy==1.4.47
+SqlalchemyMixin
+starlette
+uvicorn
+Werkzeug
+psycopg2-binary
+jinja2
+numpy==1.22.2
+unidecode
+passlib
